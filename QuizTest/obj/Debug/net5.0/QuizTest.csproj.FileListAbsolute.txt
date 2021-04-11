@@ -1,0 +1,16 @@
+C:\CodebitsAcademy\LabTask\CSharp Labtask\ConsoleQuizApp\QuizTest\bin\Debug\net5.0\QuizTest.exe
+C:\CodebitsAcademy\LabTask\CSharp Labtask\ConsoleQuizApp\QuizTest\bin\Debug\net5.0\QuizTest.deps.json
+C:\CodebitsAcademy\LabTask\CSharp Labtask\ConsoleQuizApp\QuizTest\bin\Debug\net5.0\QuizTest.runtimeconfig.json
+C:\CodebitsAcademy\LabTask\CSharp Labtask\ConsoleQuizApp\QuizTest\bin\Debug\net5.0\QuizTest.runtimeconfig.dev.json
+C:\CodebitsAcademy\LabTask\CSharp Labtask\ConsoleQuizApp\QuizTest\bin\Debug\net5.0\QuizTest.dll
+C:\CodebitsAcademy\LabTask\CSharp Labtask\ConsoleQuizApp\QuizTest\bin\Debug\net5.0\ref\QuizTest.dll
+C:\CodebitsAcademy\LabTask\CSharp Labtask\ConsoleQuizApp\QuizTest\bin\Debug\net5.0\QuizTest.pdb
+C:\CodebitsAcademy\LabTask\CSharp Labtask\ConsoleQuizApp\QuizTest\obj\Debug\net5.0\QuizTest.csprojAssemblyReference.cache
+C:\CodebitsAcademy\LabTask\CSharp Labtask\ConsoleQuizApp\QuizTest\obj\Debug\net5.0\QuizTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodebitsAcademy\LabTask\CSharp Labtask\ConsoleQuizApp\QuizTest\obj\Debug\net5.0\QuizTest.AssemblyInfoInputs.cache
+C:\CodebitsAcademy\LabTask\CSharp Labtask\ConsoleQuizApp\QuizTest\obj\Debug\net5.0\QuizTest.AssemblyInfo.cs
+C:\CodebitsAcademy\LabTask\CSharp Labtask\ConsoleQuizApp\QuizTest\obj\Debug\net5.0\QuizTest.csproj.CoreCompileInputs.cache
+C:\CodebitsAcademy\LabTask\CSharp Labtask\ConsoleQuizApp\QuizTest\obj\Debug\net5.0\QuizTest.dll
+C:\CodebitsAcademy\LabTask\CSharp Labtask\ConsoleQuizApp\QuizTest\obj\Debug\net5.0\ref\QuizTest.dll
+C:\CodebitsAcademy\LabTask\CSharp Labtask\ConsoleQuizApp\QuizTest\obj\Debug\net5.0\QuizTest.pdb
+C:\CodebitsAcademy\LabTask\CSharp Labtask\ConsoleQuizApp\QuizTest\obj\Debug\net5.0\QuizTest.genruntimeconfig.cache
